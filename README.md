@@ -21,7 +21,9 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 <p><img align='right' src="https://komarev.com/ghpvc/?username=redwankarimsony" alt="Redwan Karim Sony" /> </p>
 
 
-# Author: Md. Redwan Karim Sony
+
+# Author: 
+**Md. Redwan Karim Sony**8
 Lecturer <br>
 Department of Computer Science & Engineering, </br>
 Islamic University of Technology (IUT) </br>
