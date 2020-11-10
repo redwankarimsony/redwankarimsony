@@ -31,7 +31,7 @@ Email: redwankarimsony1455@gmail.com<br>
 	redwankarim@iut-dhaka.edu
 	
 	
-# Description
+#ML Competitions Hackerearth
 
 This repository contains the approaches and solutions of the problems appear in different Machine Learning Competitions like Kaggle,  HackerEarth ML challenge etc. Trying to work on my way up in the ladder in the field of Machine Learning. 
 
