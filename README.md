@@ -47,7 +47,7 @@ The following table contains all the code bases of the competitions that I parti
 
 | No. |                                  Challenge Name                                  |                                                                                           Folder                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
-|  1  |           SIIM-ISIC Melanoma Classification         |         [Solution](https://github.com/redwankarimsony/SIIM-ISIC-Melanoma-Classification)         | Classification |       386^{th} out of 3314 (Top 12%)       | [Link](https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard) |
+|  1  |           SIIM-ISIC Melanoma Classification         |         [Solution](https://github.com/redwankarimsony/SIIM-ISIC-Melanoma-Classification)         | Classification |       Solo 386th out of 3314 teams (Top 12%)       | [Link](https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard) |
 
 
 
