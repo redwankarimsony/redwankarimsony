@@ -43,7 +43,7 @@ The following table contains all the code bases of the competitions that I parti
 
 # ML Competitions on [Kaggle](https://www.kaggle.com/)
 
-The following table contains all the code bases of the competitions that I participated on HackerEarth. The original code repo is in this profile. However for easier glide through all of them, I organized them in this table. This table may help you to find the specific problem and solutions. Keep Learning!
+The following table contains all the code bases of the competitions that I participated on Kaggle. The original code repo is in this profile. However for easier glide through all of them, I organized them in this table. This table may help you to find the specific problem and solutions. Keep Learning!
 
 | No. |                                  Challenge Name                                  |                                                                                           Folder                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
