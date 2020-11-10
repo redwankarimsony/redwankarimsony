@@ -38,3 +38,16 @@ The following table contains all the code bases of the competitions that I parti
 | No. |                                  Challenge Name                                  |                                                                                           Folder                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
 |  1  |           HackerEarth Deep Learning Challenge: Snakes in the hood         |         [Solution](https://github.com/redwankarimsony/hackerearth-snake-in-the-hood)         | Classification |       Currently at top of the leaderborad       | [Link](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-snake-breed-detection/leaderboard/identify-the-snake-breed-5-66d9a9f5/) |
+
+
+
+# ML Competitions on [Kaggle](https://www.kaggle.com/)
+
+The following table contains all the code bases of the competitions that I participated on HackerEarth. The original code repo is in this profile. However for easier glide through all of them, I organized them in this table. This table may help you to find the specific problem and solutions. Keep Learning!
+
+| No. |                                  Challenge Name                                  |                                                                                           Folder                                                                                            |      Type      |                       Position                        | LeaderBoard |
+| :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
+|  1  |           SIIM-ISIC Melanoma Classification         |         [Solution](https://github.com/redwankarimsony/SIIM-ISIC-Melanoma-Classification)         | Classification |       386^{th} out of 3314 (Top 12%)       | [Link](https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard) |
+
+
+
