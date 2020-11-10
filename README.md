@@ -23,11 +23,12 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 
 # Author: 
-**Md. Redwan Karim Sony** <br>
-Lecturer <br>
+**Md. Redwan Karim Sony** </br>
+Lecturer </br>
 Department of Computer Science & Engineering, </br>
 Islamic University of Technology (IUT) </br>
 Website: https://redwankarimsony.github.io/ </br>
+Kaggle: https://www.kaggle.com/redwankarimsony </br>
 ResearchGate: https://www.researchgate.net/profile/Redwan_Sony </br>
 Linkedin: https://bd.linkedin.com/in/redwankarimsony/ </br>
 Email: redwankarimsony1455@gmail.com<br>
