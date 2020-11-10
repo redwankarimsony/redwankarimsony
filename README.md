@@ -23,7 +23,7 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 
 # Author: 
-**Md. Redwan Karim Sony**8
+**Md. Redwan Karim Sony** <br>
 Lecturer <br>
 Department of Computer Science & Engineering, </br>
 Islamic University of Technology (IUT) </br>
