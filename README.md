@@ -19,3 +19,15 @@
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
 <p><img align='right' src="https://komarev.com/ghpvc/?username=redwankarimsony" alt="Redwan Karim Sony" /> </p>
+
+
+# Author: Md. Redwan Karim Sony
+Lecturer <br>
+Department of Computer Science & Engineering, </br>
+Islamic University of Technology (IUT) </br>
+Website: https://redwankarimsony.github.io/ </br>
+ResearchGate: https://www.researchgate.net/profile/Redwan_Sony </br>
+Linkedin: https://bd.linkedin.com/in/redwankarimsony/ </br>
+Email: redwankarimsony1455@gmail.com<br>
+	redwankarim@iut-dhaka.edu
+
