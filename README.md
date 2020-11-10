@@ -31,13 +31,9 @@ Email: redwankarimsony1455@gmail.com<br>
 	redwankarim@iut-dhaka.edu
 	
 	
-#ML Competitions Hackerearth
+# ML Competitions on [HackerEarth](https://www.hackerearth.com/challenges/)
 
-This repository contains the approaches and solutions of the problems appear in different Machine Learning Competitions like Kaggle,  HackerEarth ML challenge etc. Trying to work on my way up in the ladder in the field of Machine Learning. 
-
-_Please put a star if you find it helpful._
-
-This table may help you to find the specific problem and solutions. Keep Learning!
+The following table contains all the code bases of the competitions that I participated on HackerEarth. The original code repo is in this profile. However for easier glide through all of them, I organized them in this table. This table may help you to find the specific problem and solutions. Keep Learning!
 
 | No. |                                  Challenge Name                                  |                                                                                           Folder                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
