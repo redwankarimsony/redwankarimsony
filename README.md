@@ -52,6 +52,7 @@ The following table contains all the code bases of the competitions that I parti
 |  2  |           SIIM-ISIC Melanoma Classification         |         [Solution](https://github.com/redwankarimsony/SIIM-ISIC-Melanoma-Classification)         | Classification |       Solo 386 th out of 3314 teams (Top 12%)       | [Link](https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard) |
 |  3  |           Flower Classification with TPUs        |         [Solution](https://github.com/redwankarimsony/Flower-Classification-with-TPUs)         | Classification |       Solo 84 th out of 848 teams (Top 10%)       | [Link](https://www.kaggle.com/c/flower-classification-with-tpus/leaderboard) |
 |  4  |           Plant Pathology 2020 - FGVC7      |         [Solution](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7)         | Classification |       103 rd out of 848 teams (Top 8%)       | [Link](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/leaderboard) |
+| 5   |RSNA-STR Pulmonary Embolism [EDA + Domain Info] |       [Solution](https://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/)         | Classification |       288 out of 784 teams (Top 37%)       | [Link](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard) |
 
 
 
