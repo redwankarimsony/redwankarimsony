@@ -50,6 +50,7 @@ The following table contains all the code bases of the competitions that I parti
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
 |  1  |           OSIC Pulmonary Fibrosis Progression        |         [Solution](https://github.com/redwankarimsony/OSIC-Pulmonary-Fibrosis-Progression)         | Multistage Classification |       <font color = 'red'> **Solo Bronze medal** </font> </br> 198 th out of 2097 teams (Top 10%)        | [Link](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/leaderboard) |
 |  2  |           SIIM-ISIC Melanoma Classification         |         [Solution](https://github.com/redwankarimsony/SIIM-ISIC-Melanoma-Classification)         | Classification |       Solo 386 th out of 3314 teams (Top 12%)       | [Link](https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard) |
+|  3  |           Flower Classification with TPUs        |         [Solution](https://github.com/redwankarimsony/Flower-Classification-with-TPUs)         | Classification |       Solo 84 th out of 848 teams (Top 10%)       | [Link](https://www.kaggle.com/c/flower-classification-with-tpus/leaderboard) |
 
 
 
