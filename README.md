@@ -1,10 +1,11 @@
-## Hello, This is Redwan Karim Sony!
+## Hello, This is Redwan Karim Sony! This contains overview of the my activities like research works, machine learning competitions, projects etc. Notworthy works are listed here with necessary links. Star them if you see them worthy of.. 
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=redwankarimsony&show_icons=true"/>](https://github.com/redwankarimsony/)
 
-Check the repositories section to see my efforts! Hope, you will enjoy it!
-<br/>
-<p><img align='right' src="https://komarev.com/ghpvc/?username=redwankarimsony" alt="Redwan Karim Sony" /> </p>
+
+[<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=redwankarimsony&show_icons=true"/>](https://github.com/redwankarimsony/)
+
+
+<p><img align='center' src="https://komarev.com/ghpvc/?username=redwankarimsony" alt="Redwan Karim Sony" /> </p>
 
 
 
