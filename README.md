@@ -30,10 +30,13 @@ Linkedin: https://bd.linkedin.com/in/redwankarimsony/ </br>
 Email: redwankarimsony1455@gmail.com<br>
 	redwankarim@iut-dhaka.edu
 	
+# Research & Publications:
+
+	
 	
 # ML Competitions on [HackerEarth](https://www.hackerearth.com/challenges/)
 
-The following table contains all the code bases of the competitions that I participated on HackerEarth. The original code repo is in this profile. However for easier glide through all of them, I organized them in this table. This table may help you to find the specific problem and solutions. Keep Learning!
+The following table contains all the code bases of the competitions that I participated on HackerEarth. The original repository is uploaded in my GitHub account in their respective repos.. However for easier glide through all of them, this table may help you to find the specific problem and solutions. Keep Learning!
 
 | No. |                                  Challenge Name                                  |                                                                                           Folder                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
@@ -44,7 +47,7 @@ The following table contains all the code bases of the competitions that I parti
 
 # ML Competitions on [Kaggle](https://www.kaggle.com/)
 
-The following table contains all the code bases of the competitions that I participated on Kaggle. The original code repo is in this profile. However for easier glide through all of them, I organized them in this table. This table may help you to find the specific problem and solutions. Keep Learning!
+The following table contains all the code bases of the competitions that I participated on Kaggle. Most of the solution are done through kaggle kernel. However, a copy of them are uploaded in their respective repos. For easier browse all of them, this table may help you to find the specific problem and solutions. Keep Learning!
 
 | No. |                                  Challenge Name                                  |                                                                                         GitHub Repo                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
