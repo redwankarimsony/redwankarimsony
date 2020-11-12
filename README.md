@@ -30,8 +30,10 @@ Email: redwankarimsony1455@gmail.com<br>
 	
 # Research & Publications:
 |No.| Description | Published | GitHub Repo | Link to Publication|
-|:---|:-----------|------------|-------------|--------------------|
+|:---:|:-----------|:-----------:|:-------------:|:--------------------:|
 |1. |Advanced Agglomerative Clustering Technique for Phylogenetic Classficiation using Manhattan Distance.| Yes | [Code](https://github.com/redwankarimsony/AACT)|[BIOCOMP'17](https://csce.ucmss.com/cr/books/2017/LFS/CSREA2017/BIC3194.pdf)|
+|2. |Performance Comparison of Feature Descriptors in Offline Signature Verification | Yes | [Code](https://github.com/redwankarimsony/Offline-Signature-Verification)|[JET Link](http://jet.iutoic-dhaka.edu/assets/publishedPaper/14_1_1.pdf)|
+
 
 	
 	
