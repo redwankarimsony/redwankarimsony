@@ -2,7 +2,6 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=redwankarimsony&show_icons=true"/>](https://github.com/redwankarimsony/)
 
-
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
 <p><img align='right' src="https://komarev.com/ghpvc/?username=redwankarimsony" alt="Redwan Karim Sony" /> </p>
@@ -18,15 +17,7 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 
 
-# Author: 
-**Md. Redwan Karim Sony** <br/>
-Lecturer, <br/>
-Department of Computer Science & Engineering (CSE), <br/>
-Islamic University of Technology (IUT) <br/>
-Dhaka, Bangladesh <br/>
-[Google Scholar](https://scholar.google.com/citations?user=bQeQW8AAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Redwan_Sony)  | [Kaggle](https://www.kaggle.com/redwankarimsony) | [Linkedin](https://bd.linkedin.com/in/redwankarimsony/) </br>
-Email: redwankarimsony1455@gmail.com<br>
-	redwankarim@iut-dhaka.edu
+
 	
 # Research & Publications:
 |No.| Description | Published | GitHub Repo | Link to Publication|
@@ -59,6 +50,18 @@ The following table contains all the code bases of the competitions that I parti
 |  3  |           Flower Classification with TPUs        |         [Solution](https://github.com/redwankarimsony/Flower-Classification-with-TPUs)         | Classification |       Solo 84 th out of 848 teams (Top 10%)       | [Link](https://www.kaggle.com/c/flower-classification-with-tpus/leaderboard) |
 |  4  |           Plant Pathology 2020 - FGVC7      |         [Solution](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7)         | Classification |       103 rd out of 848 teams (Top 8%)       | [Link](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/leaderboard) |
 | 5   |RSNA-STR Pulmonary Embolism Detection |       [Solution](https://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/)         | Multistage Classification |       288 out of 784 teams (Top 37%)       | [Link](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard) |
+
+
+
+# Author: 
+**Md. Redwan Karim Sony** <br/>
+Lecturer, <br/>
+Department of Computer Science & Engineering (CSE), <br/>
+Islamic University of Technology (IUT) <br/>
+Dhaka, Bangladesh <br/>
+[Google Scholar](https://scholar.google.com/citations?user=bQeQW8AAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Redwan_Sony)  | [Kaggle](https://www.kaggle.com/redwankarimsony) | [Linkedin](https://bd.linkedin.com/in/redwankarimsony/) </br>
+Email: redwankarimsony1455@gmail.com<br>
+	redwankarim@iut-dhaka.edu
 
 
 
