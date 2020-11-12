@@ -29,6 +29,9 @@ Email: redwankarimsony1455@gmail.com<br>
 	redwankarim@iut-dhaka.edu
 	
 # Research & Publications:
+|No.| Description | Published | GitHub Repo | Link to Publication|
+|:---|:-----------|------------|-------------|--------------------|
+|1. |Advanced Agglomerative Clustering Technique for Phylogenetic Classficiation using Manhattan Distance.| Yes | [Code](https://github.com/redwankarimsony/AACT)|[BIOCOMP'17](https://csce.ucmss.com/cr/books/2017/LFS/CSREA2017/BIC3194.pdf)|
 
 	
 	
