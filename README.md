@@ -36,7 +36,7 @@ Email: redwankarimsony1455@gmail.com<br>
 	
 # ML Competitions on [HackerEarth](https://www.hackerearth.com/challenges/)
 
-The following table contains all the code bases of the competitions that I participated on HackerEarth. The original repository is uploaded in my GitHub account in their respective repos.. However for easier glide through all of them, this table may help you to find the specific problem and solutions. Keep Learning!
+The following table contains all the code bases of the competitions that I participated on HackerEarth. The original repository is uploaded in my GitHub account in their respective repos. However, for easier browse through specific problem and solutions, this table may come handy to you. Keep Learning!
 
 | No. |                                  Challenge Name                                  |                                                                                           Folder                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
@@ -47,7 +47,7 @@ The following table contains all the code bases of the competitions that I parti
 
 # ML Competitions on [Kaggle](https://www.kaggle.com/)
 
-The following table contains all the code bases of the competitions that I participated on Kaggle. Most of the solution are done through kaggle kernel. However, a copy of them are uploaded in their respective repos. For easier browse all of them, this table may help you to find the specific problem and solutions. Keep Learning!
+The following table contains all the code bases of the competitions that I participated on Kaggle. Most of the solution are done through kaggle kernel. In order to view the live original notebook with dataset loaded, follow the **kaggle live link** for respective notebooks in the github repos.  However, a copy of them are uploaded in their respective github repos. For easier browse through specific problem and solutions, this table may come handy to you. Keep Learning!
 
 | No. |                                  Challenge Name                                  |                                                                                         GitHub Repo                                                                                            |      Type      |                       Position                        | LeaderBoard |
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | :---------: |
