@@ -21,7 +21,7 @@ The following table contains all the code bases of the competitions that I parti
 |  2. |           HackerEarth Machine Learning Challenge: Are your employees burning out?        |         [Solution*](https://github.com/redwankarimsony/hackerearth_employee_burnout)         | Regression |       Live Contest      | [Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/leaderboard/predict-the-employee-burn-out-rate-7-6340b4e3/) |
 |  3. |           HackerEarth Machine Learning Challenge: Carnival Wars       |         [Solution*](https://github.com/redwankarimsony/HackerEarth-Carnival-Wars)         | Regression |       Live Contest      | [Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/leaderboard/predict-the-price-5-fe7f8735/) |
 
-**\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the repo is private for now. Once the contest is over, I will make that repo public.` 
+**\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the competition is live, hence the repo is private for now. Once the contest is over, I will make that repo public.` 
 
 
 
