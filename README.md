@@ -38,11 +38,17 @@ The following table contains all the code bases of the competitions that I parti
 | 5.   |RSNA-STR Pulmonary Embolism Detection |       [Solution](https://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/)         | Multistage Classification | Solo 288th out of 784 teams (Top 37%)       | [Link](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard) |
 | 6.   |Jigsaw Multilingual Toxic Comment Classification |       [Solution](https://github.com/redwankarimsony/Jigsaw-Multilingual-Toxic-Comment-Classification/)         | Classification, NLP | Solo 330th out of 1621 teams (Top 21%)       | [Link](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/leaderboard) |
 
+# Miscellaneous Competitions
+
+| No. |  Challenge Name |   GitHub Repo   |      Type      |    Position   | LeaderBoard |
+| :-: | :-------------: | :-------------: | :------------: | :-----------: | :---------: |
+| 1.  | Dhaka-Ai-Traffic-Detection-Challenge | [Repo Link](https://github.com/redwankarimsony/Dhaka-Ai-Traffic-Detection-Challenge) | Object Dectection and Localization | Live Contest* | [Look for team name __init__()](https://dhaka-ai.com/leaderboard)     |
 
 # Projects and Tutorial Repos
 | No. |         GitHub Repo    |      Description     | Category |  
 |:--:|:--------------------:|:-------------------|:------: |
 |  1. | [Object-Detection-and-Segmentation-with-TorchVision](https://github.com/redwankarimsony/Object-Detection-and-Segmentation-with-TorchVision)|   For this tutorial, I have finetuned a pre-trained Mask R-CNN model in the Penn-Fudan Database for Pedestrian Detection and Segmentation. It contains 170 images with 345 instances of pedestrians, and later on it will use it to illustrate how to use the new features in torchvision in order to train an instance segmentation model on a custom dataset. | Detection and Segmentation |
+
 
 
 
