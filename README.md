@@ -38,8 +38,7 @@ The following table contains all the code bases of the competitions that I parti
 |  4.  |           Plant Pathology 2020 - FGVC7      |         [Solution](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7)         | Classification |       103rd out of 1317 teams (Top 8%)       | [Link](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/leaderboard) |
 | 5.   |RSNA-STR Pulmonary Embolism Detection |       [Solution](https://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/)         | Multistage Classification | Solo 288th out of 784 teams (Top 37%)       | [Link](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard) |
 | 6.   |Jigsaw Multilingual Toxic Comment Classification |       [Solution](https://github.com/redwankarimsony/Jigsaw-Multilingual-Toxic-Comment-Classification/)         | Classification, NLP | Solo 330th out of 1621 teams (Top 21%)       | [Link](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/leaderboard) |
-
-|  7. |          Sorghum -100 Cultivar Identification - FGVC 9       |         [Solution](https://github.com/redwankarimsony/Sorghum-100-Cultivar-Identification-FGVC-9)         | Classification |       43 th out of 252 teams (top 17%)      | [Link](https://www.kaggle.com/competitions/sorghum-id-fgvc-9/leaderboard) |
+|  7. |          Sorghum -100 Cultivar Identification - FGVC 9       |         [Solution](https://github.com/redwankarimsony/Sorghum-100-Cultivar-Identification-FGVC-9)         | Classification |       SOlo 43 th out of 252 teams (top 17%)      | [Link](https://www.kaggle.com/competitions/sorghum-id-fgvc-9/leaderboard) |
 
 # Miscellaneous Competitions
 
