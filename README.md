@@ -21,6 +21,7 @@ The following table contains all the code bases of the competitions that I parti
 |  2. |           HackerEarth Machine Learning Challenge: Are your employees burning out?        |         [Solution](https://github.com/redwankarimsony/hackerearth_employee_burnout)         | Regression |       40th among 560 participants (Top 7%)     | [Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/leaderboard/predict-the-employee-burn-out-rate-7-6340b4e3/) |
 |  3. |           HackerEarth Machine Learning Challenge: Carnival Wars       |         [Solution*](https://github.com/redwankarimsony/HackerEarth-Carnival-Wars)         | Regression |       310 th out of 2240 teams (top 13%)      | [Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/leaderboard/predict-the-price-5-fe7f8735/) |
 
+
 **\* Note:**  `If you can't find the GitHub Repo of the solution, it means that the competition is live, hence the repo is private for now. Once the contest is over, I will make that repo public.` 
 
 
@@ -37,6 +38,8 @@ The following table contains all the code bases of the competitions that I parti
 |  4.  |           Plant Pathology 2020 - FGVC7      |         [Solution](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7)         | Classification |       103rd out of 1317 teams (Top 8%)       | [Link](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/leaderboard) |
 | 5.   |RSNA-STR Pulmonary Embolism Detection |       [Solution](https://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/)         | Multistage Classification | Solo 288th out of 784 teams (Top 37%)       | [Link](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/leaderboard) |
 | 6.   |Jigsaw Multilingual Toxic Comment Classification |       [Solution](https://github.com/redwankarimsony/Jigsaw-Multilingual-Toxic-Comment-Classification/)         | Classification, NLP | Solo 330th out of 1621 teams (Top 21%)       | [Link](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/leaderboard) |
+
+|  7. |          Sorghum -100 Cultivar Identification - FGVC 9       |         [Solution](https://github.com/redwankarimsony/Sorghum-100-Cultivar-Identification-FGVC-9)         | Classification |       43 th out of 252 teams (top 17%)      | [Link](https://www.kaggle.com/competitions/sorghum-id-fgvc-9/leaderboard) |
 
 # Miscellaneous Competitions
 
