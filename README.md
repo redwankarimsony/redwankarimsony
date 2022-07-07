@@ -7,6 +7,7 @@ Hello, This is Redwan Karim Sony! <br/>This contains overview of the my activiti
 |:---:|:-----------|:-----------:|:-------------:|:--------------------:|
 |1. |Advanced Agglomerative Clustering Technique for Phylogenetic Classficiation using Manhattan Distance.| Yes | [Code](https://github.com/redwankarimsony/AACT)|[BIOCOMP'17](https://csce.ucmss.com/cr/books/2017/LFS/CSREA2017/BIC3194.pdf)|
 |2. |Performance Comparison of Feature Descriptors in Offline Signature Verification | Yes | [Code](https://github.com/redwankarimsony/Offline-Signature-Verification)|[JET Link](http://jet.iutoic-dhaka.edu/assets/publishedPaper/14_1_1.pdf)|
+|3. |Less is More: Lighter and Faster Deep Neural Architecture for Tomato Leaf Disease Classification | Yes | [Code](https://github.com/redwankarimsony/project-tomato)|[IEEE Access](https://ieeexplore.ieee.org/document/9810234)|
 
 
 	
