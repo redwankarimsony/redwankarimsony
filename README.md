@@ -44,7 +44,7 @@ PhD Student | iPRoBe Lab, <br/>
 Department of Computer Science & Engineering (CSE), <br/>
 Michigan State University (MSU) <br/>
 East Lansing, MI-48823, USA <br/>
-[Google Scholar]([https://scholar.google.com/citations?user=bQeQW8AAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=GhqjRu8AAAAJ)) |  [Kaggle]([https://www.kaggle.com/redwankarimsony](https://www.kaggle.com/redwankarimsony)) | [Linkedin]([https://bd.linkedin.com/in/redwankarimsony/](https://www.linkedin.com/in/redwankarimsony/))  |[Academic CV](https://redwankarimsony.github.io/assets/pdf/short_resume_redwan.pdf) </br>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=GhqjRu8AAAAJ) |  [Kaggle](https://www.kaggle.com/redwankarimsony) | [Linkedin](https://www.linkedin.com/in/redwankarimsony/))  |[Academic CV](https://redwankarimsony.github.io/assets/pdf/short_resume_redwan.pdf) </br>
 ✉️ Contact:  
 - sonymd@msu.edu  
 - redwankarimsony1455@gmail.com  
