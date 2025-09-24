@@ -9,7 +9,10 @@
 ---
 
 ### 🔗 Profiles
-[Google Scholar](https://scholar.google.com/citations?user=GhqjRu8AAAAJ&hl=en) |  [LinkedIn](https://www.linkedin.com/in/redwankarimsony/) |  [Twitter/X](https://x.com/RedwanSony) |   [GitHub Pages](https://redwankarimsony.github.io/)  
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GhqjRu8AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redwankarimsony/)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/RedwanSony)
+[![Website](https://img.shields.io/badge/Website-21759B?style=flat&logo=githubpages&logoColor=white)](https://redwankarimsony.github.io/)
 
 ---
 
@@ -42,8 +45,10 @@ Department of Computer Science & Engineering (CSE), <br/>
 Michigan State University (MSU) <br/>
 East Lansing, MI-48823, USA <br/>
 [Google Scholar]([https://scholar.google.com/citations?user=bQeQW8AAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=GhqjRu8AAAAJ)) |  [Kaggle]([https://www.kaggle.com/redwankarimsony](https://www.kaggle.com/redwankarimsony)) | [Linkedin]([https://bd.linkedin.com/in/redwankarimsony/](https://www.linkedin.com/in/redwankarimsony/))  |[Academic CV](https://redwankarimsony.github.io/assets/pdf/short_resume_redwan.pdf) </br>
-Email: redwankarimsony1455@gmail.com<br>
-	redwankarim@iut-dhaka.edu
+✉️ Contact:  
+- sonymd@msu.edu  
+- redwankarimsony1455@gmail.com  
+- redwankarim@iut-dhaka.edu 
 	
 
 [<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=redwankarimsony&show_icons=true"/>](https://github.com/redwankarimsony/)
