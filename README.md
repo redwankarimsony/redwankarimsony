@@ -1,5 +1,5 @@
 
-# [Md. Redwan Karim Sony](https://redwankarimsony.github.io/)
+# [Redwan Karim](https://redwankarimsony.github.io/)
 
 🎓 Ph.D. Student in Computer Science & Engineering, Michigan State University (iPRoBe Lab)  
 🔬 Research Focus: Biometric Recognition, Vision–Language Models, Generative AI, and Explainability  
